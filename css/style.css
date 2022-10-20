@@ -1,3 +1,8 @@
 p {
   background: #090;
 }
+a {
+  text-decoration: none;
+  background: #090;
+  color: #fff;
+}
